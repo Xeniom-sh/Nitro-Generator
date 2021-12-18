@@ -1,3 +1,4 @@
+from colorafull import init; init()
 import os, requests, random, threading, json, time, multiprocessing
 from colorama import Fore
 
